@@ -1,0 +1,15 @@
+* {
+    font-family: sans-serif;
+}
+div {
+    background-color: #eeeeee;
+    margin:50px auto ;
+    padding: 20px;
+    width: 400px;
+    font-size: 18px;
+}
+.three {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
