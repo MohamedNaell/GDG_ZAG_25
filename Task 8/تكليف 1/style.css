@@ -1,0 +1,13 @@
+div {
+    width: 300px;
+    height: 60px;
+    margin: 20px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #eeeeee;
+    font-family: sans-serif;
+}
+div:empty {
+    background-color: #ff0000;
+}
