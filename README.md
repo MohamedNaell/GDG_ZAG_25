@@ -16,7 +16,12 @@ Task 9 :-
 ![Screenshot 2025-05-06 000525](https://github.com/user-attachments/assets/15928fc1-2bc1-4061-b30b-a7dde6e9a903)
 
 
-t
+
 
 Task 10 - We Salute you for your effort
-![Screenshot 2025-07-05 113804](https://github.com/user-attachments/assets/c18aa5b5-5290-447a-bc53-4c486a1409e7)
+![Screenshot 2025-07-05 113804](https://github.com/user-attachments/assets/ae8410ed-15d7-47ee-96c4-26906be1713c)
+![Screenshot 2025-07-05 114131](https://github.com/user-attachments/assets/2dd59f19-864b-40ce-97ec-f51743dc4b25)
+![Screenshot 2025-07-05 114816](https://github.com/user-attachments/assets/140598b3-c022-4bef-91f3-00f0fc47de4f)
+![Screenshot 2025-07-05 115034](https://github.com/user-attachments/assets/0335dc0f-4150-47a1-bcfc-199edba65aed)
+![Screenshot 2025-07-05 121211](https://github.com/user-attachments/assets/28b9b13c-9906-406b-9ce6-2176b4d7cd2f)
+
