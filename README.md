@@ -16,3 +16,7 @@ Task 9 :-
 ![Screenshot 2025-05-06 000525](https://github.com/user-attachments/assets/15928fc1-2bc1-4061-b30b-a7dde6e9a903)
 
 
+t
+
+Task 10 - We Salute you for your effort
+![Screenshot 2025-07-05 113804](https://github.com/user-attachments/assets/c18aa5b5-5290-447a-bc53-4c486a1409e7)
