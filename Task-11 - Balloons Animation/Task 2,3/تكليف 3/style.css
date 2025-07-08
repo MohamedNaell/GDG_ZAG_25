@@ -1,0 +1,77 @@
+.parent {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 10px;
+}
+
+.parent div {
+    background-color: #eee;
+    padding: 10px;
+    text-align: center;
+}
+
+/* SMALL SCREEN */
+@media (max-width: 991px) {
+    .parent div {
+        width: 100%;
+    }
+    .parent div h3 {
+        color: black;
+    }
+}
+
+/* MEDIUM SCREEN */
+@media (min-width: 992px) and (max-width: 1199px) {
+    .parent div {
+        width: 100%;
+    }
+    .parent .two,
+    .parent .three,
+    .parent .four {
+        width: 30%; 
+    }
+    .parent div h3 {
+        color: red;
+    }
+    .parent div p {
+        font-size: 20px;
+    }
+}
+
+/* LARGE SCREEN */
+@media (min-width: 1200px) {
+    .parent div {
+        width: 100%;
+    }
+    .parent .two,
+    .parent .three {
+        width: 45%;
+    }
+
+    .parent div h3 {
+        color: #009688;
+    }
+
+    /* ترتيبهم */
+    .parent {
+        flex-direction: row;
+    }
+
+    .one {
+        order: 1;
+    }
+
+    .two {
+        order: 2;
+    }
+
+    .three {
+        order: 3;
+    }
+
+    .four {
+        order: 4;
+    }
+}

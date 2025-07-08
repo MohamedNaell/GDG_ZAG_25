@@ -1,0 +1,12 @@
+div {
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+}
+
+@media print {
+    div {
+        font-size: 40px;
+    }
+}

@@ -1,0 +1,46 @@
+.parent {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; /* يخلّيهم في النص */
+    gap: 20px; /* المسافات بين الكروت */
+    padding: 10px;
+}
+
+.parent div {
+    background-color: #eee;
+    padding: 10px;
+    text-align: center;
+}
+
+/* LARGE SCREEN */
+@media (min-width: 1200px) {
+    .parent div {
+        width: 20%;
+    }
+    .parent div h3 {
+        color: #009688;
+    }
+}
+
+/* MID SCREEN */
+@media (min-width: 992px) and (max-width: 1199px) {
+    .parent div {
+        width: 47%; 
+    }
+    .parent div h3 {
+        color: red;
+    }
+    .parent div p {
+        font-size: 20px;
+    }
+}
+
+/* SMALL SCREEN */
+@media (max-width: 991px) {
+    .parent div {
+        width: 100%;
+    }
+    .parent div h3 {
+        color: black;
+    }
+}

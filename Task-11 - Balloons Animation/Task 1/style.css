@@ -1,0 +1,43 @@
+body {
+    background-color: #87cefa;
+    height: 100vh;
+    overflow: hidden;
+    position: relative;
+}
+.balloon {
+    width: 60px;
+    height: 80px;
+    border-radius: 50% 50% 50% 50% / 50% 50% 50% 50%;
+    position: absolute;
+    animation: updown 6s linear infinite;
+}
+.red {
+    background-color: red;
+    margin: 350px 50px ;
+}
+.blue {
+    background-color: blue;
+    margin: 500px 250px ;
+    animation-delay: 1s;
+}
+.purple {
+    background-color: purple;
+    margin: 150px 400px ;
+    animation-delay: 0.5s;
+}
+.orange {
+    background-color: orange;
+    margin: 550px 550px ;
+    animation-delay: 1.5s;
+}
+@keyframes updown {
+    0% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(-150px);
+    }
+    100% {
+        transform: translateY(0);
+    }
+}
