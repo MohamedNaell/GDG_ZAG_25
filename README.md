@@ -25,3 +25,10 @@ Task 10 - We Salute you for your effort
 ![Screenshot 2025-07-05 115034](https://github.com/user-attachments/assets/0335dc0f-4150-47a1-bcfc-199edba65aed)
 ![Screenshot 2025-07-05 121211](https://github.com/user-attachments/assets/28b9b13c-9906-406b-9ce6-2176b4d7cd2f)
 
+
+
+
+
+
+Task-12-Finish-HTML-CSS
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/75c28baf-fe0d-46bc-a9ce-98813566e314" />
